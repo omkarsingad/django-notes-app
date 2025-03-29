@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image : omkarsingad/notes-app:v2
+     image : omkarsingad/notes-app:v1
      ports :
          - "8000:8000"
